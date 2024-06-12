@@ -1,0 +1,6 @@
+1.주피터노트북 설치
+pip install jupyter --trusted-host pypi.org --trusted-host files.pythonhosted.org
+
+2.패키지 설치
+pip install pandas matplotlib seaborn pyautogui clipboard datetime selenium opencv-python pillow openpyxl python-pptx lxml xlrd html5lib chardet tqdm --trusted-host pypi.org --trusted-host files.pythonhosted.org
+
